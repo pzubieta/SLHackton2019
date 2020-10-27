@@ -27,7 +27,7 @@ click-plugins==1.0.4
 cligj==0.5.0
 constantly==15.1.0
 couchbase==2.5.3
-cryptography==2.4.2
+cryptography==3.2
 csvkit==1.0.3
 cycler==0.10.0
 dash==0.35.1
